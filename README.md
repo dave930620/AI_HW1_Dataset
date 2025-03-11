@@ -1,0 +1,1 @@
+電影名稱(單純記錄使用，不會用於訓練)，電影評分(Rating)，以及電影分類(16個feature, Action, Comedy, Drama, Horror, Science Fiction, Mystery, Romance, Music, Animation, Adventure, Documentary, Family, Crime, Fantasy, History, Western，每個分類非0及1)
